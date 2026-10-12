@@ -1,6 +1,6 @@
 # DecodeLabs Data Analytics Track | Project 2: Exploratory Data Analysis (EDA) 🔍
 
-**Author:** Sandhia Kumari  
+**Author:** Sandhiya Kumari  
 **Program:** Industrial Training Program | Batch 2026 | DecodeLabs  
 **Project Goal:** Understand patterns, trends and distributions in the cleaned orders dataset, and turn them into business insight  
 
